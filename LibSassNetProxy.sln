@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibSassNetProxy", "LibSassNetProxy\LibSassNetProxy.csproj", "{E5BBC4D7-2B41-4683-A2A2-40A1D9F929DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibSassNetTest", "LibSassNetTest\LibSassNetTest.csproj", "{AF77C907-36D0-48DD-BD95-6235A8EC83A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibSassNetTest2", "LibSassNetTest2\LibSassNetTest2.csproj", "{E2762FA3-DAE9-4D1C-903A-AA9BD91C148E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5BBC4D7-2B41-4683-A2A2-40A1D9F929DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5BBC4D7-2B41-4683-A2A2-40A1D9F929DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5BBC4D7-2B41-4683-A2A2-40A1D9F929DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5BBC4D7-2B41-4683-A2A2-40A1D9F929DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF77C907-36D0-48DD-BD95-6235A8EC83A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF77C907-36D0-48DD-BD95-6235A8EC83A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF77C907-36D0-48DD-BD95-6235A8EC83A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF77C907-36D0-48DD-BD95-6235A8EC83A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2762FA3-DAE9-4D1C-903A-AA9BD91C148E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2762FA3-DAE9-4D1C-903A-AA9BD91C148E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2762FA3-DAE9-4D1C-903A-AA9BD91C148E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2762FA3-DAE9-4D1C-903A-AA9BD91C148E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
